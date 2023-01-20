@@ -3,9 +3,9 @@ Script for automatization of folder in any directory where if your have archives
 ```
                                        EXAMPLE OF THE ORDER
 
-                                -----------------  -------------
-                                extension archive | folder save |
-                                -----------------  -------------
+                                ------------------  -------------
+                               |extension archive | folder save |
+                                -----------------  --------------
                                 | .mp3            |    Musica   |
                                 | .mp4            |    Videos   |
                                 | .png .jpeg      |    Images   |
