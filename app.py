@@ -5,7 +5,9 @@ import shutil
 # TODO: Carpeta destino
 
 print('\t\t\t\tEscribe bien tu ruta por favor ...\n')
-print('\t\t\t\tEJEMPLO DE RUTA: /home/test/Descargas')
+print('\t\t\t\tEJEMPLO DE RUTA 🤟🤟🤟:')
+print('\t\t\t\tLinux➡️➡️➡️: /home/test/Descargas')
+print(' \t\t\t\tWindows➡️➡️➡️: C:\\Users\\NAMETEST\\Desktop\\Archives')
 folderA = input('Escribe la ruta a automatizar: ')
 
 
